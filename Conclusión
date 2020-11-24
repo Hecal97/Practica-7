@@ -1,0 +1,4 @@
+Para el funcionamiento del keypad 4x4 en lo personal ya había tenido experiencia con esto y la manera más sencilla en mi lógica fue mediante ifs
+(no es lo más eficiente pero funciona). En cada iteración hace un corrimiento a la izquierda y dependiendo del valor es el número que despliega. 
+Proteus no fue posible por las licencias y todo los problemas que tuvimos lo cual me deja una mala experiencia este lab de manera virtual pero
+así toco por la situación y se entiende. 
